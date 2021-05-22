@@ -13,7 +13,7 @@ async def new_command(ctx):
 
 bot.run('token')
 ```
-.
 ### Code Showcase
 Here you can see the code in action.<br>
+
 <img src="https://filebin.net/h004c9gjk6ac7dbx/general-Google-Chrome-2021-05-22-19-27-59.gif" width="600px">
