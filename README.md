@@ -16,4 +16,4 @@ bot.run('token')
 ### Code Showcase
 Here you can see the code in action.<br>
 
-<img src="https://camo.githubusercontent.com/2d3a0683511bdeb44515f42d072c4330caedcf30587bdb0a5a8aea4d8530d451/68747470733a2f2f66696c6562696e2e6e65742f683030346339676a6b366163376462782f67656e6572616c2d476f6f676c652d4368726f6d652d323032312d30352d32322d31392d32372d35392e676966" width="600px">
+<img src="https://cdn.discordapp.com/attachments/734337167848898574/845720174870265886/general-Google-Chrome-2021-05-22-19-27-59.gif" width="600px">
