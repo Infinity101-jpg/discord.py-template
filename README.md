@@ -1,5 +1,5 @@
 ### Discord.py Bot Template
-Here follows a simple, very basic bot template for discord.py. Do not use this template if you are going to make a huge bot. Rather, only use this template for small to medium sized discord.py bots. This template also uses a non-standard way to make a new command.
+Here follows a simple, very basic bot template for discord.py. Do not use this template if you are going to make a huge bot, but only use this template for very small to small sized discord.py bots. This template uses a non-standard way to make a new command. It is also a tiny bit more lightweigt since you do not have to import discord, but just a very tiny amount.
 
 ```python
 from discord.ext.commands import Bot as bot; bot = bot(command_prefix = '')
