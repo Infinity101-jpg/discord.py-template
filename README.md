@@ -1,6 +1,5 @@
 ### Discord.py Bot Template
-Here follows a simple, very basic bot template for discord.py. Do not use this template if you are going to make a huge bot, but only use this template for very small to small sized discord.py bots. This template uses a non-standard way to make a new command. It is also a tiny bit more lightweigt since you do not have to import discord, but just a very tiny amount.
-
+Here follows a simple, very basic bot template for discord.py. Do not use this template if you are going to make a huge bot, but only use this template for very small to small sized discord.py bots. This template uses a non-standard way to make a new command. It is also a tiny bit more lightweigt since you do not have to import discord, but just a very tiny amount.<br>
 ```python
 from discord.ext.commands import Bot as bot; bot = bot(command_prefix = '')
 
@@ -14,4 +13,7 @@ async def new_command(ctx):
 
 bot.run('token')
 ```
-
+.
+### Code Showcase
+Here you can see the code in action.<br>
+<img src="https://filebin.net/h004c9gjk6ac7dbx/general-Google-Chrome-2021-05-22-19-27-59.gif" width="600px">
